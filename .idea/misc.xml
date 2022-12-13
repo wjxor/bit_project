@@ -5,7 +5,12 @@
       <map>
         <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/activity_main.xml" value="0.3890625" />
         <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/activity_next.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/activity_next2.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/activity_next3.xml" value="0.4036458333333333" />
         <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/activity_splash.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/frag_monday.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/frag_tuesday.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/w10/AndroidStudioProjects/Bit_Project/app/src/main/res/layout/frag_wednesday.xml" value="0.4036458333333333" />
       </map>
     </option>
   </component>
